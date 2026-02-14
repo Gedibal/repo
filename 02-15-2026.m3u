@@ -2441,24 +2441,7 @@ https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=mXepU5VJFAmemNj
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
-#EXTINF:-1 tvg-country="" tvg-logo="https://i.ibb.co.com/7xb2sP7G/IMG-20250928-143516.png" group-title="Liga Tarkam" ,SINPO TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=19046&type=hls
-
-
-
-
-#EXTINF:0 group-title="Liga Tarkam" tvg-logo="https://img.rapid-api.icu/football/team/a3480b76509006adf04b2d935e5c7e95/image/small?v=1768601124",19:00 02/02 Persatuan Sepakbola Makassar vs Semen Padang HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://khandaia2.me/
-https://stm02bc48435558.stream.hdplaylink.com/live3/067956f936094f1ba655868937e1875b_720/playlist.m3u8
-
-#EXTINF:0 group-title="Liga Tarkam" tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_134616_ffeccce1.png",19:00  02/02 PSM Makassar vs Semen Padang HD2
-#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://cyber.chuoichien.tv/chuoihot/index.m3u8https://mrkw1025.edgemaxcdn.org/live/lanhd1Rk/playlist.m3u8
-
+https://github.com/Gedibal/repo/raw/refs/heads/main/id/indosiar.m3u8
 
 ==================== Tarkam end ========
 

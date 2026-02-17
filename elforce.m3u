@@ -8,7 +8,7 @@ billed-msg="SELAMAT MENONTON", url-tvg="https://www.bevy.be/generate/9lxaRala0v.
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2023/09/rsz_0109rcti.jpg?quality=60" group-title="National TV", RCTI SPORTS (FHD)
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-http://103.172.71.153:9981/stream/channelid/353195065?profile=pass
+https://github.com/Gedibal/repo/raw/refs/heads/main/id/rcti.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/zokerpunk/logo/main/mncTV.png" group-title="National TV",MNC TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a

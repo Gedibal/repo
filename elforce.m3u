@@ -2437,8 +2437,7 @@ https://archertv.my.id/atraksi/vidx.mpd?id=19542&type=dash&token=mXepU5VJFAmemNj
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
 #EXTINF:-1 group-logo="" group-title="Liga Tarkam" tvg-logo="https://thumbor.prod.vidiocdn.com/DVm2nIUxdqRkgKrfo8j_00Wvwrs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850531/583a2f.jpg", 3
-https://archertv.my.id/atraksi/vidx.mpd?id=19541&type=dash&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9|User-Agent=VidioPlayer/6.31.6
-
+https://bo2.qiuxun.tv/sla/1-697788802d9d4df4724f263d.m3u8?auth_key=1771581474-0-0-b029dde6b97538a34c82b84516f08a93
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=6685&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
 #EXTINF:-1  tvg-logo="https://i.imgur.com/e3RTub2.jpg" group-title="Liga Tarkam", INDOSIAR 

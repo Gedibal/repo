@@ -2429,10 +2429,10 @@ https://manamedian.serv00.net/antaubospanel.php/manifest.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
 #EXTINF:-1 group-logo="" group-title="Liga Tarkam" tvg-logo="https://thumbor.prod.vidiocdn.com/IcuTcR9lzxii55QefOY5ydqxCGw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850530/ce3eee.jpg", 1
-https://bf.jlbflive.cc/live/5004451_hd01.m3u8?txSecret=fa2f023153c179fe6b7ea0ff53b7a2e1&txTime=699858e2#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e33.m3u8?auth_key=1771779690-0-0-628b59d0f3864304614235fbee76e0b3
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19542&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
 #EXTINF:-1 group-logo="" group-title="Liga Tarkam" tvg-logo="https://thumbor.prod.vidiocdn.com/PV8GqvhHdbiMCrEa_1GYKbCCVLw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850532/502c05.jpg", 2
-https://bo2.qiuxun.tv/sla/1-697788802d9d4df4724f263e.m3u8?auth_key=1771581474-0-0-38ae12e2160ec80533279b4e3fb079c9#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e32.m3u8?auth_key=1771763524-0-0-11828f830b9e12a7a28203b9596a15be
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
 #EXTINF:-1 group-logo="" group-title="Liga Tarkam" tvg-logo="https://thumbor.prod.vidiocdn.com/DVm2nIUxdqRkgKrfo8j_00Wvwrs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850531/583a2f.jpg", 3
 https://bo2.qiuxun.tv/sla/1-697788802d9d4df4724f263d.m3u8?auth_key=1771581474-0-0-b029dde6b97538a34c82b84516f08a93

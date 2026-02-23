@@ -2434,8 +2434,8 @@ https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e33.m3u8?auth_key=1771779690-0-
 #EXTINF:-1 group-logo="" group-title="Liga Tarkam" tvg-logo="https://thumbor.prod.vidiocdn.com/PV8GqvhHdbiMCrEa_1GYKbCCVLw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850532/502c05.jpg", 2
 https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e32.m3u8?auth_key=1771763524-0-0-11828f830b9e12a7a28203b9596a15be
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="Liga Tarkam" tvg-logo="https://thumbor.prod.vidiocdn.com/DVm2nIUxdqRkgKrfo8j_00Wvwrs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850531/583a2f.jpg", 3
-https://bo2.qiuxun.tv/sla/1-697788802d9d4df4724f263d.m3u8?auth_key=1771581474-0-0-b029dde6b97538a34c82b84516f08a93
+#EXTINF:-1 group-logo="" group-title="Liga Tarkam" tvg-logo="https://thumbor.prod.vidiocdn.com/DVm2nIUxdqRkgKrfo8j_00Wvwrs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850531/583a2f.jpg", 3 PSIM Yogyakarta vs Bali United
+https://bo2.qiuxun.tv/sla/1-697b7cff7c280e407b3b0757.m3u8?auth_key=1771851336-0-0-a3810fb21008d3059d79d9f9a5db8c51
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=6685&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
 #EXTINF:-1  tvg-logo="https://i.imgur.com/e3RTub2.jpg" group-title="Liga Tarkam", INDOSIAR 
@@ -2471,7 +2471,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
-https://otte.live.fly..ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/7f/7b/67/7f7b67c9a9fd36132bdccd94756b0c79.jpg" group-title="☆SPORT+☆",FX PREM
 #KODIPROP:inputstreamaddon=inputstream.adaptive

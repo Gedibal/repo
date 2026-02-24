@@ -2434,10 +2434,10 @@ https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e33.m3u8?auth_key=1771779690-0-
 #EXTINF:-1 group-logo="" group-title="Liga Tarkam" tvg-logo="https://thumbor.prod.vidiocdn.com/PV8GqvhHdbiMCrEa_1GYKbCCVLw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850532/502c05.jpg", 2
 https://bo2.qiuxun.tv/sla/1-697a2b899f151a19a68d3e32.m3u8?auth_key=1771763524-0-0-11828f830b9e12a7a28203b9596a15be
 #KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=19541&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
-#EXTINF:-1 group-logo="" group-title="Liga Tarkam" tvg-logo="https://thumbor.prod.vidiocdn.com/DVm2nIUxdqRkgKrfo8j_00Wvwrs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850531/583a2f.jpg", 3 PSIM Yogyakarta vs Bali United
-https://bo2.qiuxun.tv/sla/1-697b7cff7c280e407b3b0757.m3u8?auth_key=1771851336-0-0-a3810fb21008d3059d79d9f9a5db8c51
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://archertv.my.id/atraksi/drm.kt?id=6685&type=drm&token=mXepU5VJFAmemNjbBO3tUy0vTg8xw0m9
+#EXTINF:-1 group-logo="" group-title="Liga Tarkam" tvg-logo="https://thumbor.prod.vidiocdn.com/DVm2nIUxdqRkgKrfo8j_00Wvwrs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4850531/583a2f.jpg", 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv.net/
+https://2893254555.global.cdnfastest.com/live/699d8a1efe273_128756/index.m3u8?expire=1772536990&sign=793696e951676f4bf4f3161310a92f71
 #EXTINF:-1  tvg-logo="https://i.imgur.com/e3RTub2.jpg" group-title="Liga Tarkam", INDOSIAR 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm

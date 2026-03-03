@@ -272,6 +272,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8?app_type=web&amp;user
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/93/9c/07/939c078143deb074669d2176003cee27.jpg" group-title="🔵BERITA", ALJAZEERA ARABIC HD
 http://khano.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918b.m3u8
+https://live-hls-web-aje-fa.thehlive.com/AJE/06.m3u8
+
 
 ##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/05/f0/2a/05f02a6db5799317384695ba7c2e0f6d.jpg" group-title="🔵BERITA", SEA TODAY
 

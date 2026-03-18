@@ -277,246 +277,86 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 ####################################################### Knowledge end #######################################################
 ========================================================== BERITA =====================================================================
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/40/a2/0f/40a20f36807ad281c016eeb5d911bff5.jpg" group-title="🔵BERITA"
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/5f/74/e4/5f74e43470cb6e4dfcae19226b4fa892.jpg" group-title="🔵BERITA", ABC AUSTRALIA
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f5/e3/76/f5e37679f24ea8329b6f1e90445441ae.jpg" group-title="🔵BERITA", CHANNEL NEW ASIA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#https://raw.githubusercontent.com/Cutsiffa/pl/main/Berita/Cna.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/bd/04/91/bd0491e872c76432375c86aa484a3875.jpg" group-title="🔵BERITA",Russia Today
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/40/89/74/40897471f830e2a531c1a32d0c3b650d.jpg" group-title="🔵BERITA", FRANCE 24
-https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/720p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c5/78/d5/c578d5269341f42576d80db5f1982ff5.jpg" group-title="🔵BERITA", NHK WORLD
-https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/cf/13/8f/cf138fb7b1c7c8e9bcfddd21b0b3be13.jpg" group-title="🔵BERITA", BLOOMBERG TV (HD)
-https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/6b37746aa01646b6e8bcdbf391371600.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ea/2b/83/ea2b835a79631b9a530efd6370bb16ae.jpg" group-title="🔵BERITA", TRT WORLD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TRT_World
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/93/9c/07/939c078143deb074669d2176003cee27.jpg" group-title="🔵BERITA", ALJAZEERA ARABIC HD
-http://khano.nng.cloudns.us/live/m3u8/ar/f5f5c18cf037918b.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/05/f0/2a/05f02a6db5799317384695ba7c2e0f6d.jpg" group-title="🔵BERITA", SEA TODAY
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/e2/a4/04/e2a4048206094c488b2dbdffabbf2aae.jpg" group-title="🔵BERITA", METROTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/97/dd/9d/97dd9d4261f1ce37ad5ef3ff96f25809.jpg" group-title="🔵BERITA", TVONE
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
-https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/8e/79/ce/8e79cec1583412d05d5169e2b1c29e1f.jpg" group-title="🔵BERITA", KOMPAS TV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/1c/d9/62/1cd962bbd97d9ec14a93f06ab7503ca9.jpg" group-title="🔵BERITA", BBC NEWS
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
-https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mpd/BBCWorldNewsHD.mpd
-#https://raw.githubusercontent.com/Cutsiffa/pl/main/Berita/Bbcworld.m3u8
-https://b638a299.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/d1ee66fb-71e5-408d-945a-31ae598fd476/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/45/b7/89/45b789a58d5d7a1310ce79c14bb08216.jpg" group-title="🔵BERITA", ALJAZEERA ENGLISH
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/cb/ed/64/cbed6463e49558d33211bb0ea918e991.jpg" group-title="🔵BERITA", EURONEWS US
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/43/1b/65/431b65b19c723b17552cc7dd2e60dd0c.jpg" group-title="🔵BERITA", FOX NEWS
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
-https://atemecdnbalancer-voe.sysln.id/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/61/d5/e1/61d5e146b33db85124221c55fbd966b4.jpg" group-title="🔵BERITA",BBC2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47d68f825cdea389eb3b75a39275fc61:97e8875d20f9b95a2b59ed79b4a358a1
-https://ac-001.live.p7s1video.net/a30b657a/t_001/sat1-at/cenc-default.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/d0/40/04/d04004f9c8534b66262ffd2965c4633a.jpg" group-title="🔵BERITA", CGTN NEWS
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CGTN_Documentary
-
-#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://i.pinimg.com/236x/b8/85/70/b88570a5c0096be41378e9db0b850133.jpg" group-title="🔵BERITA",CNN INDONESIA 
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-
-#EXTINF:-1 tvg-name="CNBC INDONESIA" tvg-logo="https://i.pinimg.com/236x/e8/4f/d2/e84fd21cc11a24c57aa4f72d8e1936ef.jpg" group-title="🔵BERITA",CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/2a/86/ec/2a86ec71aa28233009bf4ed132eda9ab.jpg" group-title="🔵BERITA", NHK WORLD PREMIUM
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.pinimg.com/236x/5d/3b/bd/5d3bbdce50006d891590a675cb7fa306.jpg" group-title="🔵BERITA",BERITA RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-id="AstroAwani" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.pinimg.com/236x/5c/71/da/5c71daf1755e7627a5dcc6351610f55c.jpg" group-title="🔵BERITA",ASTRO AWANI
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a7/3f/a6/a73fa6c5b7e0dd01f8b936566869ebd5.jpg", tvg-id="ksport1hd" group-title="🔵BERITA", NBC NEWS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
-https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/master.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b3/27/d8/b327d81cc7bc234c45f60d506d05fb07.jpg" group-title="🔵BERITA", RTÈ News 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=765cd70494b06fd06494702620bbc172:a453f47fa795900309609b68737b8c60
-https://live.rte.ie/live/a/channel3/channel3.isml/channel3.mpd
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/236x/d8/7f/4d/d87f4d3d1361064fe9d2f6222e6c71fd.jpg" group-title="🔵BERITA",MEDIASET
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/3f/81/8b/3f818b02c439645bb5ad2e06c76a3b2b.jpg" group-title="🔵BERITA",TV5Monde
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ef/29/45/ef2945b51bae2e493c0fcc6b069cf316.jpg" group-title="🔵BERITA",RTP Internacional
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c5/f6/df/c5f6dfcda5f7fca9d7b5b4ad14723552.jpg" group-title="🔵BERITA",Sky News
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00033f7dcc4fa16f91a862f6d8420902:50cfec3c8d2bf51d41cce44f74781edf
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-https://d25w9q07b2mtmw.cloudfront.net/live/master_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/35/2b/48/352b4845c9b673f8d5d5c6bbc68c17de.jpg" group-title="🔵BERITA",CNBC US
-http://fortv.cc:8080/live/8137358494/otiswilliam916@gmail.com/9815.m3u8
-
-#EXTINF:-1 tvg-id="TIMES NOW.in" tvg-logo="https://i.pinimg.com/236x/96/92/78/96927856b12da3615ff8693141fadf68.jpg" group-title="🔵BERITA",Times Now
-https://d3pvf6sv7wsu07.cloudfront.net/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/4d/9a/42/4d9a426d29d776f226647d1ebbca0473.jpg" group-title="🔵BERITA",Bilyo PH
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
-
-#EXTINF:-1 tvg-id="Onenews Hd.ph" tvg-logo="https://i.pinimg.com/236x/09/81/56/0981566759fa569d47bd918da9b8f109.jpg" group-title="🔵BERITA",One News PH
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
-
-#EXTINF:-1 tvg-id="TRT HABER HD.tr" tvg-logo="https://i.pinimg.com/236x/3b/b6/17/3bb61730817e70a853d44a7e0ab4e162.jpg" group-title="🔵BERITA",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="Nation TV.th" tvg-logo="https://i.pinimg.com/236x/82/ec/a9/82eca9274821b2b2e9da8a3d694e99c7.jpg" group-title="🔵BERITA",Nation TV
-https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
-
-#EXTINF:-1 group-title="🔵BERITA" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png", Thai PBS
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-https://cdn6.goprimetime.info/feed/202205171929/chthaipbs3/index.m3u8
-
-#EXTINF:-1 group-title="🔵BERITA" tvg-logo="https://i.pinimg.com/236x/17/ab/18/17ab18a2bdf738a29faca42f9a06ce7a.jpg", JGN INDO
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fbf0d50c48a46bfbf287715296f17e5:b1e63bdfd4e89fc42ea41635ab2bc3a9
-https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd
-
-#EXTINF:-1 group-title="🔵BERITA" tvg-logo="https://i.pinimg.com/236x/ff/2c/52/ff2c5222a756db58dd40059156165fc8.jpg", CNN INTERNATIONAL
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
-https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
-#https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/51afc09f-23c7-44d8-b866-8c4669d00460/1.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN International" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfNfgzt5c4Lk_FI3RQV-v1ppdI2QOsnb8yxyOz6i895OIqIhDFcEZxVaZisWIyM5qxD2YdAtqFx-PPAaGuqmCOtNsGHCH3Nq7bVQ0OqSE6LziYZKRGcapjDPaqH2TKNknO9vbJD_ynCBBdb9C-flO7ZwklolEv-5FdoioDzMacaJommzUg0_5LIpJH7I/s700/CNNINT.png" group-title="News TV",CNN Int
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.mpd
 
-#EXTINF:-1 group-title="🔵BERITA" tvg-logo="https://i.pinimg.com/236x/9f/96/dc/9f96dc0e7ccf09e7ab5068f06a995120.jpg",TVBS NEWS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4439ed36468445ea780f1eba44e1d05:e40e4ecb1caadc90c92ce975264c99d8
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mpd/TVBSNews.mpd
+#KODIPROP:inputstream.adaptive.license_key=975ef0f16ca94eee8aa5c3a6ff9149e7:2b69f4bdc9e4aa4f6ec03220b0c89dd1
+#EXTINF:-1 tvg-id="BBCNews.id" tvg-name="BBC News" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBGV5hCJRjjZ7uypo1i5TbszWEk0Dw0WKhC2CCAWtI_PUIwR3e_iBYDLPS3MFUYhTppjfBz8NiGqk9fTKQSbMWoyn_L0m22O3gCWx48_UffinedAMhZS75Xu4DTfkriJZzXIviq48PU-SQGGdDB76cF4LbCPV1iPlvYHPcd53WGM7-xjkXpr_sltvxy_c/s700/BBCNews.png" group-title="News TV",BBC News
+https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mediampd/BBCWorldNewsHD.mpd
 
-#EXTINF:-1 group-title="🔵BERITA" tvg-logo="https://i.pinimg.com/236x/25/26/f7/2526f7a977e0b7e0bf03f535c544a23d.jpg",TVBS ASIA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mpd/TVBSAsia.mpd
+#KODIPROP:inputstream.adaptive.license_key=be6910ec53584120aa213203e8e2bd25:43239ebdca1b277d92221628db79c791
+#EXTINF:-1 tvg-id="DWEnglish.id" tvg-name="DW English" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR0giv1TZL34dSUQ-gPmBY3tpQ23Vizd1rb2_hyphenhyphennuspR4_tz0r3KnCDYuyoQRECzIiZawWU7Du4xqtOlKK42Vo7Nv2QDzWOjYinRHTGzdaH4-U75BPPD-KRE9FmtfHaUGs9SMHqPiv_uP1GfsGsIjI-zYgzJ3nVQ3ZRWJZf6WEoEzsxH3t3sZqVX6x8Ww/s700/DWNews.png" group-title="News TV",DW Eng
+https://atemeshield1-voe.sysln.id/live/eds/DwEnglishHD/mediampd/DwEnglishHD.mpd
 
-#EXTINF:-1 group-title="🔵BERITA" tvg-logo="https://i.pinimg.com/236x/53/ad/45/53ad4549b15db2908b291920bacbf654.jpg",CCTV 4
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6224262601de437a81c99fdda7e2ea4a:7224fae0f679b70d22aca394a9084120
-https://atemecdnbalancer-voe.sysln.id/live/eds/CCTV4/mpd/CCTV4.mpd
+#KODIPROP:inputstream.adaptive.license_key=4c325414b6254a3ba4bcb2a31d4b1318:ae6c5d2b86727b478da73ffd0795c417
+#EXTINF:-1 tvg-id="TRT World.id" tvg-name="TRT World" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuLglZUkXg_B9AvvJaWpWTxwV2BazJNMfsZaEfoIKX0qIPgRpF1KsE1uPhxV_nM4odjNBYAuyVqe79iNLwOrA-P0r5tZegag6HuWfKFHaBUJdPE-toGe82yiSZDtYrbmTBf9vUpvBeUTK6ujEKcvWRqcvTyChb_N2ATAqWh3BpdvAb9v6HnNRW7buhBY0/s700/TRTWorld.png" group-title="News TV",TRT World
+https://atemeshield1-voe.sysln.id/live/eds/TRTWorldHD/mediampd/TRTWorldHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b1/91/dc/b191dcb687abb4b3047bfd1a6983ce2a.jpg" group-title="🔵BERITA", HRT1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
-https://cdn1oiv.akamaized.net/hrtliveorigin/hrt1.smil/1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=4b3c7a7356de4bbc92a405545d3b1a7a:9bc7381a1be526b2e0f74eb036819f26
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQgp57sUQGy-4RGWG6IFdyRq63LMpVoAV14YQMSGZCmJy8G5rqoi8Zu7pOP9ykmumaGD4LZNthvLLrEZBCtUgHuVf_gNPbDplBqrt8G7242Fse8xv8SRGNK93fFcTCqwUQLmCq9Oh_6-zc0pPByLm60x367yK96fgWPy2yd0V4dgTuo8yI8_iLHDvmWgg/s700/AlJazeera.png" group-title="News TV",Al Jazeera
+https://atemecdnbalancer-voe.sysln.id/live/eds/AlJazeeraIntHD/mediampd/AlJazeeraIntHD.mpd
 
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/13/3a/5c/133a5ca04db9093b5ecef27c7a6805e5.jpg" group-title="🔵BERITA",Zee NEWS
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/a9/3a/89/a93a8952288bdfb068ef245aabb2eb2e.jpg" group-title="🔵BERITA",ET Now
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b6/25/d5/b625d53badbdd4951d577b8bab64ca10.jpg" group-title="🔵BERITA",NDTV 
-##EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/83/a0/44/83a044eef95cbb1c881ab5e3f75253c5.jpg" group-title="🔵BERITA",NEWS18 
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/53/72/13/537213a310bc78e1ef3a1b05844b9e50.jpg" group-title="🔵BERITA",ABC NEWS Live 
-https://aegis-cloudfront-1.tubi.video/9d419cbd-86b2-4f8f-be44-98e043f297cc/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/95/16/ad/9516adbe8c805824d43799c5ed3a3044.jpg" group-title="🔵BERITA",NBC NEWS NOW 
-https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_4.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b4/77/ad/b477ad159574a41124cffb8297950c34.jpg" group-title="🔵BERITA",Now from Fox 
-https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/52/ae/4e/52ae4ebd6d21211b91c859f710830e84.jpg" group-title="🔵BERITA",Reuters TV 
-https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist480P.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4f/7c/23/4f7c236ace87f9e0887a501360d5be63.jpg" group-title="🔵BERITA",PTV PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=8bf84ef1f79a4135bd20b7bb363ecb98:b15ad052e1d0e04f7b7bdf500fecd0e5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="CNA.id" tvg-name="CNA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0qO4JI00XqSUzSJ5PNkDQW2hAtUj35FMZ5Y4iQ3JIODzmohev-piCWaE1gPnzVNJXbsmgR1Eiqul2wr79sQ_sA5maal51rbU-oJZn0Sf5b_ho1D6thPfJ36n03ErevZCfiAKmmtRZJxqqKvHAfENQRb29Myg6aEtsM77vrWmgX8l3k9rn8gF_wi8hDZ8/s700/Acna.png" group-title="News TV",CNA
+https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mediampd/CNAHD.mpd
 
-#EXTINF:-1 group-title="🔵BERITA" tvg-logo="https://i.pinimg.com/736x/ff/2c/52/ff2c5222a756db58dd40059156165fc8.jpg",CNN ASEAN
-http://125hvt.ddns.net:21585/cnn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/77/72/e7/7772e7e6f4de4c81b6f16faad1e652aa.jpg" group-title="🔵BERITA",Palestine Today
-https://live.paltodaytv.com/paltv/live/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="CNBCAsia.id" tvg-name="CNBC Asia" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlvJJpia4b4gO_GuLrv_TlCuh9ZobeW-TLDOpbewGW3FP7K7k3t-IO1qQQiabk1MVuAYwWe4__WbbhJ7GG6cb3RIPhl95weZsPL790_AQOY8GlTMadkJwNgXlqMsp0ex1PmDIht-34BsbAH6n1kQAiQ8D8YeOmytLKUcB4h9DfGlbQOn2w_ChiH4UFnOk/s700/CNBCInt.png" group-title="News TV",CNBC Asia
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c5/f6/df/c5f6dfcda5f7fca9d7b5b4ad14723552.jpg" group-title="🔵BERITA",Newsy
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="BloombergTV.id" tvg-name="Bloomberg TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaROauS0lZbDnQOpzlcaM05ldJidLwOKapKeWOVQG76Imx59-OKOql0xVyPsuOPw4bA0IGYsbxJ2SKLzJ22j1mBxFPBGJmQqPUA0gaHDK_gaG7lwp7q2QghRGYzOLfl-mmDLwxcCplAc0wJUy8Aq5NNfwrZcxAcHoxl4kCo09K5iI7eVt_eGZ3IktEqVQ/s700/Bloomberg.png" group-title="News TV",Bloomberg
+https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c5/f6/df/c5f6dfcda5f7fca9d7b5b4ad14723552.jpg" group-title="🔵BERITA",Newsmax
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b179af994403942f3061d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwCwuQgRs_qMm6iYmHhsnGWlDt_Lx8QRw8nB592I5GeYJcoaQ5G7wm7Z235NaTNSIgbEiYbCEiRBzsFUkAEv_GipnzA79aMz40vherKCMs-EUXU5Nc8RZ6AGH0YA5bAeYObl3Uybp_CD3J8QxaA-A4dYXFA3MFgG_2A6YuPvPEbDTg48ptNufb1i2ksfg/s700/TastyTrade.png" group-title="News TV",Tastytrade
+https://bcovlive-a.akamaihd.net/r77df0dffb8c44094b029f1f924124818/us-west-2/us-west-2/6057994532001/profile_1/chunklist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c5/f6/df/c5f6dfcda5f7fca9d7b5b4ad14723552.jpg" group-title="🔵BERITA", UNIVISION
-https://linear-254.frequency.stream/mt/studio/254/hls/master/playlist.m3u8
-https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
+#EXTINF:-1 tvg-id="Youtube.com" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3CtbMiPlP-S5jPvN93ua6oI9oCW31dA3TqatVp-ELXZYJ9PjXPzwiItGj-v26TQvQ-S7qkAMcv7y_1HU9Vhi0CUA8LtfD1qyX_tQf37-MkoKET86e79HQzrlIzVYidJfnAU36-j_h1AAwAxzr5cwrthUveXD8t-91CIpGZ6dVM88JY43bu1G3aehNgwY/s700/TVRParlemen.png" group-title="News TV",TVR Parlemen
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTHTTP:{"Origin":"https://www.youtube.com"}
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.youtube.com/
+#https://rocket-tv.online/redtube/randomyt.m3u8?id=UCK-mqog3-tfRX8Zu5zcz9DQ
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c5/f6/df/c5f6dfcda5f7fca9d7b5b4ad14723552.jpg" group-title="🔵BERITA",CBS News
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="News TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC6JcBSP6bE_BHLCY-Srer0iebSmDTzkwKtCAWAYUFyG2oCvW5eAe2ZGXmsUckU8De7gdtYkXe_nqNgXhf6Bsefxo3G3mNt5Qag9i0ga056UnTEPbqjrHa-P_KCc8I4D4EntITQNVMjZZrMAOpuErltwPb1GQ_cDQQcf0e18xfCdgrwR3iLcV29MjspOE/s700/NHKWorld.png",NHK World Japan
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NHK_WORLD-JAPAN
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c5/f6/df/c5f6dfcda5f7fca9d7b5b4ad14723552.jpg" group-title="🔵BERITA",The First
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486acc34ceb37d3c458a64/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc32fe8b8e0b4b849724d4a34e390c83:62a98c5670883a0a034df0c27b435a5e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6GjniYgn__r2LYYhPiDptq7ZSLFijQAbJ4DextSCvOJE3jGhIEFfs06RYThjXzE995nPUE7YIh2oRetJpiYxK0Ip6mMzq_M0ADZZ95uWprAWRRMg_HJBPaTcAnU7fm6nlCRTKlkkBP4b42ORKl2l2b_ZXq1aD9zyNOBhf1mS3sfV9dDLm_cJ01LYCQmY/s700/History.png" group-title="News TV",History
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c5/f6/df/c5f6dfcda5f7fca9d7b5b4ad14723552.jpg" group-title="🔵BERITA",TODAY All Day
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d695f7db53adf96b78e7ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
+#EXTINF:-1 group-title="News TV" tvg-id="CrimeInvestigation.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgne6fUx9oGa2ZR76ZVIXHOlMVM6U1B-QTDw7Xw7hmb4cKld-HnqAcnxj9Z2iORrkS_dQatH5q27pw_gh3UM8LBBg8qqZ9MbpqGPCuoTCMIEuL_N0fe8kzEzG1b_MDfgSQ1Sff081AI-dB0Yuawe2ob4fmDyx4YCWEKhCLN0TUXgOUtBkDbdWMrpHijJG8/s700/CrimeInvest.png",Crime Investigation 
+https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mediampd/CrimeInvestigationHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c5/f6/df/c5f6dfcda5f7fca9d7b5b4ad14723552.jpg" group-title="🔵BERITA",Blaze Live
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJStFU9nfC51hmS7hl5RPWKooIYs3OAi9kwsKTBuD9wRYEId8X_adGLSvSF8WbElUh2Di13nRCcmh7fVAmPPGtwd_lYhCi0CChiD0oX8XdbrMWWSZx4oWiLzT4gUpb7RoVemebNGZrAsAClDAdKTUh5fo8xek45AC_M3LReX_UZkWgSvp4BETPQQ0FxWU/s700/RRINet.png" group-title="News TV",RRI Net
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c5/f6/df/c5f6dfcda5f7fca9d7b5b4ad14723552.jpg" group-title="🔵BERITA",OAN Plus
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7cf6c7b156d500078c5f44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ==================================================== KIDS ============================================================
 

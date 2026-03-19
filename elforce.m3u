@@ -2704,30 +2704,26 @@ https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
-#EXTINF:-1  group-title="BADMINTON" tvg-logo="https://thumbor.prod.vidiocdn.com/P9uQyfmfVpxojQyM4oDvXqKXdoE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/totalenergies-bwf-world-championships-2025-round-of-32-court-1-9c3b81.jpg",BWF World Championships CH3
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/fIw6JnbnXylR0j2jBfN26Q/Fv2lucGIbhPi2caWYvF5Lg/1754042242871/live/may24/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/XV29fePd_OlVLB6nMlx-5A/Fv2lucGIbhPi2caWYvF5Lg/1754042242871/live/may241/chunklist.m3u8
-#EXTINF:-1 group-title="BADMINTON" tvg-logo="https://i.ibb.co.com/MxBt8tCs/IMG-20250825-164825.png", HYLO Open 2025
-#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
-#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/4PsARBRmTw9LUn3EaWcm9g/Fv2lucGIbhPi2caWYvF5Lg/1756299649898/live/may26/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/DwBMPhzzQjHFVvfNTEhGpQ/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may28/chunklist.m3u8
-https://hotlivezz179026907.akainu.xyz/Anz18OGyRGcXc0HFOtAY9Q/Fv2lucGIbhPi2caWYvF5Lg/1757401453476/live/may281/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="BADMINTON" tvg-logo="https://get.perfecttv.net/logo/vidio2.png", Video
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8a8158dfb4a4a0d85dbee672e11c7e4:4ca940fd2caabe479d2feef34c63d851
-https://get.perfecttv.net/vidiolive.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=18249
-
-#EXTINF:-1 group-logo="" group-title="BADMINTON" tvg-id="814.astro" tvg-logo="https://get.perfecttv.net/logo/badminton.png" group-logo="",809 Badminton HD
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0bbb23a5ad81427fa6817864b2383402:81e055a8d6ddf6392ae9033f0f037b98
-https://load.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonhd|user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QewulhWeckgpLjAplYWZqNECeFI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/19969/orleans-masters-badminton-2026-74d0ae.jpg" group-title="BADMINTON",COURT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18249&type=dash
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QewulhWeckgpLjAplYWZqNECeFI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/19969/orleans-masters-badminton-2026-74d0ae.jpg" group-title="BADMINTON",COURT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18250&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18250&type=dash
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QewulhWeckgpLjAplYWZqNECeFI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/19969/orleans-masters-badminton-2026-74d0ae.jpg" group-title="BADMINTON",COURT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18252&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18252&type=dash
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QewulhWeckgpLjAplYWZqNECeFI=/960x576/filters:quality(70)/vidio-web-prod-headline/uploads/headline/mobile_image/19969/orleans-masters-badminton-2026-74d0ae.jpg" group-title="BADMINTON",COURT 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://aylin-ratu76.mediaflow.workers.dev/index.mpd?id=18253&type=dash
 
 
 ================== Badminton end =========

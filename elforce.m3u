@@ -1,15 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mX2j28qbDiMEJ-FzevbZOSBbYf0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007956/4c0e15.jpg" group-title="LIVE VOLY", 18:40 WIB 09/04/26 Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Bhayangkara Presisi - Proliga (INTI HLS/M3U8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/11111/20240.m3u8?dev_kaki_09&t=1775748696&uip=2404%3Ac0%3Ac203%3A8a39%3Afc03%3Aa0a5%3A690e%3A23dd&h=c81cfd27d16f0f1bb2cfc657b8e62d2b282e4f92c4c98f0afea8e3184224c7ed
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mX2j28qbDiMEJ-FzevbZOSBbYf0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007956/4c0e15.jpg" group-title="LIVE VOLY", 18:40 WIB 09/04/26 Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Bhayangkara Presisi - Proliga (INTI MPD)
+#EXTINF:-1 tvg-id="Local" group-title="LIVE VOLI" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/12324673/live/18168193/record/52572685/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi-do Sports Festival 2026 Gwangju - Billiards Day 1LIVE VOLI
+http://aspaltvpasti.top/1/Shopeeq/korea_master_tv/iptv.m3u8?id=20260410BILLIARDS1
+#EXTINF:-1 tvg-id="Local" group-title="LIVE VOLI" tvg-logo="https://livecloud-thumb.akamaized.net/sports/livecloud/KR/stream/15602189/live/18168224/record/52572688/thumbnail/image_480.jpg" ch-number="92" group-logo="",72nd Gyeonggi-do Sports Festival 2026 Gwangju - Billiards Day 1LIVE VOLI
+http://aspaltvpasti.top/1/Shopeeq/korea_master_tv/iptv.m3u8?id=20260410BILLIARDS2
+
+===========live voly==========
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/PVaWG2Pnc0QIMEAK1JBPc_sB0gw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007958/c9c3aa.jpg" group-title="LIVE VOLI", 15:20 WIB 10/04/26 Final Four Putri: Jakarta Electric PLN Mobile vs Jakarta Popsivo Polwan - Proliga (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/20240.drm?dev_kaki_09&t=1775748696&uip=2404%3Ac0%3Ac203%3A8a39%3Afc03%3Aa0a5%3A690e%3A23dd&h=c81cfd27d16f0f1bb2cfc657b8e62d2b282e4f92c4c98f0afea8e3184224c7ed
-https://aspaltvpasti.top/11111/20240.mpd?dev_kaki_09&t=1775748696&uip=2404%3Ac0%3Ac203%3A8a39%3Afc03%3Aa0a5%3A690e%3A23dd&h=c81cfd27d16f0f1bb2cfc657b8e62d2b282e4f92c4c98f0afea8e3184224c7ed
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mX2j28qbDiMEJ-FzevbZOSBbYf0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007956/4c0e15.jpg" group-title="LIVE VOLY", 18:40 WIB 09/04/26 Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Bhayangkara Presisi - Proliga (ALT HLS/M3U8)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/20240.drm?dev_kaki_09&t=1775821846&uip=103.141.47.157&h=3623bb84d1392ab7dcf25193691da3fec3b4b5bd80a14dbebd20fe9de3f7c87e
+https://aspaltvpasti.top/11111/20240.mpd?dev_kaki_09&t=1775821846&uip=103.141.47.157&h=3623bb84d1392ab7dcf25193691da3fec3b4b5bd80a14dbebd20fe9de3f7c87e
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/PVaWG2Pnc0QIMEAK1JBPc_sB0gw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007958/c9c3aa.jpg" group-title="LIVE VOLI", 15:20 WIB 10/04/26 Final Four Putri: Jakarta Electric PLN Mobile vs Jakarta Popsivo Polwan - Proliga (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/11111/20240.m3u8?exp=1775748696&uip=2404%3Ac0%3Ac203%3A8a39%3Afc03%3Aa0a5%3A690e%3A23dd&sign=7d5822d8c38ebf43b9d6d44707f62022af98c7dbe0856365c91eef40ad9adf0f
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mX2j28qbDiMEJ-FzevbZOSBbYf0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007956/4c0e15.jpg" group-title="LIVE VOLY", 18:40 WIB 09/04/26 Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Bhayangkara Presisi - Proliga (ALT MPD)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/20240.drm?exp=1775821846&uip=103.141.47.157&sign=bcf518c6df7cf9dd60720d1a4aff4eaded3a3e037fa463d112c0311265a38500
+https://aspaltvpasti.top/11111/20240.mpd?exp=1775821846&uip=103.141.47.157&sign=622fec98b96d2fec50b4fd3662de63273845e554ee9857252841d4913798c147

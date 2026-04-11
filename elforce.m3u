@@ -5,30 +5,41 @@ http://aspaltvpasti.top/1/Shopeeq/korea_master_tv/iptv.m3u8?id=20260410BILLIARDS
 http://aspaltvpasti.top/1/Shopeeq/korea_master_tv/iptv.m3u8?id=20260410BILLIARDS2
 
 ===========live voly==========
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/PVaWG2Pnc0QIMEAK1JBPc_sB0gw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007958/c9c3aa.jpg" group-title="LIVE VOLI", 15:20 WIB 10/04/26 Final Four Putri: Jakarta Electric PLN Mobile vs Jakarta Popsivo Polwan - Proliga (INTI)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/PVaWG2Pnc0QIMEAK1JBPc_sB0gw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007958/c9c3aa.jpg" group-title="LIVE VOLI", Proliga (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/20240.drm?dev_kaki_09&t=1775821846&uip=103.141.47.157&h=3623bb84d1392ab7dcf25193691da3fec3b4b5bd80a14dbebd20fe9de3f7c87e
 https://aspaltvpasti.top/11111/20240.mpd?dev_kaki_09&t=1775821846&uip=103.141.47.157&h=3623bb84d1392ab7dcf25193691da3fec3b4b5bd80a14dbebd20fe9de3f7c87e
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/PVaWG2Pnc0QIMEAK1JBPc_sB0gw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007958/c9c3aa.jpg" group-title="LIVE VOLI", 15:20 WIB 10/04/26 Final Four Putri: Jakarta Electric PLN Mobile vs Jakarta Popsivo Polwan - Proliga (ALT)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/PVaWG2Pnc0QIMEAK1JBPc_sB0gw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007958/c9c3aa.jpg" group-title="LIVE VOLI", Proliga (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/20240.drm?exp=1775821846&uip=103.141.47.157&sign=bcf518c6df7cf9dd60720d1a4aff4eaded3a3e037fa463d112c0311265a38500
 https://aspaltvpasti.top/11111/20240.mpd?exp=1775821846&uip=103.141.47.157&sign=622fec98b96d2fec50b4fd3662de63273845e554ee9857252841d4913798c147
+#EXTINF:-1 group-title="LIVE VOLI"  tvg-logo="https://iry.indazn.com/ca/v2/ca/image?id=a9muho2q6vod1hv0y84x2sihe_image-headepDach_1661948923000&quality=70", Voli Proliga
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/20240.drm
+https://aspaltvpasti.top/11111/20240.mpd
+
+
+
 
 ============ Live Bola ======
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JCwNBGJ9rA5Zktl0eDM3FfysIqo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008007/f6c6bd.jpg" group-title="LIVE BOLA", 18:38 WIB 10/04/26 PERSITA vs Arema FC - BRI Super League (INTI)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JCwNBGJ9rA5Zktl0eDM3FfysIqo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008007/f6c6bd.jpg" group-title="LIVE BOLA", BRI Super League (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/11111/19354.drm?dev_kaki_09&t=1775834072&uip=2404%3Ac0%3Ac203%3A8a39%3Afc03%3Aa0a5%3A690e%3A23dd&h=eab3be68367e8e88fcce4d7405a3c2afe5acaec2f5cc421188dc5c3a2396ea38
 https://aspaltvpasti.top/11111/19354.mpd?dev_kaki_09&t=1775834072&uip=2404%3Ac0%3Ac203%3A8a39%3Afc03%3Aa0a5%3A690e%3A23dd&h=eab3be68367e8e88fcce4d7405a3c2afe5acaec2f5cc421188dc5c3a2396ea38
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JCwNBGJ9rA5Zktl0eDM3FfysIqo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008007/f6c6bd.jpg" group-title="LIVE BOLA", 18:38 WIB 10/04/26 PERSITA vs Arema FC - BRI Super League (ALT)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/JCwNBGJ9rA5Zktl0eDM3FfysIqo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008007/f6c6bd.jpg" group-title="LIVE BOLA", BRI Super League (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash

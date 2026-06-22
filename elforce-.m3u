@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXT-X-VERSION:5
 #EXT-X-MEDIA-SEQUENCE:0
@@ -415,7 +414,6 @@ https://raw.githubusercontent.com/ph03y3nk/dentovi/refs/heads/main/JadwalKlasifi
 http://103.148.44.38:8000/play/a05u/index.m3u8
 
 
-
 #EXTINF:-1  tvg-name="TVRI INDO" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="PIALA DUNIA 2026",TVRI INDO.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -426,12 +424,7 @@ http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.cwl3cPdjq3-DSHHho8uVGwAbojwa_Vk7waJHZ6Bxtks"} 
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2 
-#https://gooo.blog/opix/genx.m3u8?id=tvrisport&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NDk4MjUyODgsImV4cCI6MTc0OTgzNjA4OCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxODIuMi40Ny4yNDQifX0.mEa4egyO_TJd6jQSisnDlhhGrGqTg19FN9oTnsikoAs 
-#http://202.169.224.202:8800/udp/239.1.2.3:1234
-#http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
-#https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISPORT)/index.m3u8
-http://iptv.kilas7.com:80/kaukia/asdfrewq/272
+http://103.148.44.38:8000/play/a03t/index.m3u8
 
 
 
@@ -509,7 +502,7 @@ http://het107a.ycn-redirect.com/live/33523510/index.m3u8?t=D3ELE-i9GsmOuKSnXG0bO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
+http://190.124.20.69:80/TUDN/index.m3u8
 
 #EXTINF:-1 group-title="PIALA DUNIA 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnIqSmtcRBD47pFAIlnzXqFm2I3cCakKQn1_Iy1jZKxA&s=10",Tipik 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
